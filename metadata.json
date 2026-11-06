@@ -1,0 +1,6 @@
+{
+  "name": "Smart Menu SaaS — منصة القائمة الذكية وإدارة المطاعم والمطبخ",
+  "description": "نظام سحابي متكامل متعدد المستأجرين (Multi-Tenant Restaurant SaaS) يشمل قائمة الزبون التفاعلية (PWA)، شاشة المطبخ اللحظية (KDS)، الكاشير، ومحرك الطباعة الحرارية العربية (ESC/POS 1-Bit Rasterizer).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
